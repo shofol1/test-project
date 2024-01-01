@@ -9,7 +9,7 @@ function App() {
   const [icons, setIcons] = useState([]);
 
   const [inputIcon, setInputIcon] = useState([...icons]); // Initialize with all icons
-  console.log("🚀 ~ file: App.jsx:12 ~ App ~ inputIcon:", inputIcon);
+
   const [searchText, setSearchText] = useState("");
 
   const [errorMessage, setErrorMessage] = useState("");

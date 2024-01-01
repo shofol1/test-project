@@ -50,9 +50,7 @@ const Search = ({
   // };
   const handleInputChange = (e) => {
     const searchText = e.target.value;
-    // Update query parameter in the URL based on the input value
     navigate(`/search?query=${encodeURIComponent(searchText)}`);
-    // handleSearch(searchText);
   };
   return (
     <div>
