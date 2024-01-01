@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1,
+    "category": "Alert",
+    "icon": "AlertIcon-sharp",
+    "style": "thin",
+    "image": "https://i.ibb.co/nnqVKNP/images-11.png"
+  },
+  {
+    "id": 2,
+    "category": "Alert",
+    "icon": "AlertIcon-thin",
+    "style": "thin",
+    "image": "https://i.ibb.co/xCDTLM7/1076332.png"
+  },
+  {
+    "id": 3,
+    "category": "Alert",
+    "icon": "AlertIcon-thin",
+    "style": "thin",
+    "image": "https://i.ibb.co/VHTMN1h/warning-thin-icon-171428.png"
+  },
+  {
+    "id": 4,
+    "category": "Alert",
+    "icon": "AlertIcon-regular",
+    "style": "regular",
+    "image": "https://i.ibb.co/87kyHB0/mail-alert-regular-icon-203489.png"
+  },
+  {
+    "id": 5,
+    "category": "Alert",
+    "icon": "AlertIcon-regular",
+    "style": "regular",
+    "image": "https://i.ibb.co/Ny0yPV9/alert-on-regular-icon-204086.png"
+  },
+  {
+    "id": 6,
+    "category": "Alert",
+    "icon": "AlertIcon-solid",
+    "style": "solid",
+    "image": "https://i.ibb.co/DQWxz09/png-transparent-warning-alert-attention-ui-lines-icon.png"
+  },
+  {
+    "id": 7,
+    "category": "Alert",
+    "icon": "AlertIcon-solid",
+    "style": "solid",
+    "image": "https://i.ibb.co/R9v8y2Z/png-transparent-computer-icons-emergency-alert-system-icon-design-dv-angle-text-triangle.png"
+  },
+  {
+    "id": 8,
+    "category": "Alert",
+    "icon": "AlertIcon-solid",
+    "style": "solid",
+    "image": "https://i.ibb.co/KKQKyD6/images.png"
+  },
+
+  {
+    "id": 9,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/w4QZTj5/1492531732-icon-sets-school-outline-hand-drawn-iconfinder09-83202.png"
+  },
+  {
+    "id": 10,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/gw2rMnd/images-3.png"
+  },
+  {
+    "id": 11,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/gw2rMnd/images-3.png"
+  },
+  {
+    "id": 12,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/w4QZTj5/1492531732-icon-sets-school-outline-hand-drawn-iconfinder09-83202.png"
+  },
+  {
+    "id": 13,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/w4QZTj5/1492531732-icon-sets-school-outline-hand-drawn-iconfinder09-83202.png"
+  },
+  {
+    "id": 14,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/1rf8Qpn/Education-2-28135-29.jpg"
+  },
+  {
+    "id": 15,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/gw2rMnd/images-3.png"
+  },
+  {
+    "id": 16,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/z4YCjvr/images-2.png"
+  },
+  {
+    "id": 17,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/X3Bjykn/images-4.png"
+  },
+  {
+    "id": 18,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/X3Bjykn/images-4.png"
+  },
+
+  {
+    "id": 19,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/8P6MgCz/4659484.png"
+  },
+  {
+    "id": 20,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/cF5DVmZ/3084264.png"
+  },
+  {
+    "id": 21,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/ByJdLZ7/3084311.png"
+  },
+  {
+    "id": 22,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/ByJdLZ7/3084311.png"
+  },
+  {
+    "id": 23,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/pb4LD2t/1000-F-114709500-5-PNv-Sv8x-Fz-Sh-X7-UFa-Gi-LXry-SKk-CGqjql.jpg"
+  },
+  {
+    "id": 24,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/K0wDTfm/images-5.png"
+  },
+  {
+    "id": 24,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/q063fwB/facebook-logo-thin-icon-171792.png"
+  },
+  {
+    "id": 25,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/7X4h5RP/225129.png"
+  },
+  {
+    "id": 26,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/VSzYTth/images-6.png"
+  },
+
+  {
+    "id": 27,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/r5zf2MY/istockphoto-943476392-612x612.jpg"
+  },
+  {
+    "id": 28,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/r5zf2MY/istockphoto-943476392-612x612.jpg"
+  },
+  {
+    "id": 29,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/R3Dn8p6/800px-COLOURBOX35629241.jpg"
+  },
+  {
+    "id": 30,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/DG35LQY/istockphoto-1470608008-612x612.jpg"
+  },
+  {
+    "id": 31,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/7kDypzy/istockphoto-1446105638-612x612.jpg"
+  },
+  {
+    "id": 32,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/C94LR1R/istockphoto-841185248-612x612.jpg"
+  },
+  {
+    "id": 33,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/C94LR1R/istockphoto-841185248-612x612.jpg"
+  },
+  {
+    "id": 33,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/C94LR1R/istockphoto-841185248-612x612.jpg"
+  },
+  {
+    "id": 34,
+    "category": "Map",
+    "icon": "regular",
+    "style": "solid",
+    "image": "https://i.ibb.co/C94LR1R/istockphoto-841185248-612x612.jpg"
+  },
+
+  {
+    "id": 35,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/z6nJdNg/communication-icon-trendy-modern-flat-linear-communication-icon-on-white-background-from-thin-line-c.jpg"
+  },
+  {
+    "id": 36,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/hXRfgdt/images-7.png"
+  },
+  {
+    "id": 37,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/TgtrD3K/telephone2.png"
+  },
+  {
+    "id": 38,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/TgtrD3K/telephone2.png"
+  },
+  {
+    "id": 39,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/tmSMQ2q/images-9.png"
+  },
+  {
+    "id": 40,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/3kzVvTY/images-8.png"
+  },
+  {
+    "id": 41,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/zG2cywM/communication-icon.png"
+  },
+  {
+    "id": 42,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/3YkFcd0/417718.png"
+  },
+  {
+    "id": 43,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/Hp3LWZV/1545615.png"
+  },
+
+  {
+    "id": 44,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/0B44CQ5/4513513.png"
+  },
+  {
+    "id": 45,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/pZFPJ5P/6249277.png"
+  },
+  {
+    "id": 46,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "regular",
+    "image": "https://i.ibb.co/3kzVvTY/images-8.png"
+  },
+  {
+    "id": 47,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/RS9kYmm/order-3212-image-2-300x300.jpg"
+  },
+  {
+    "id": 48,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/W5gSB8x/Client-employee-business-man-icon-Graphics-31597820-1-580x386.jpg"
+  },
+  {
+    "id": 49,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "thin",
+    "image": "https://i.ibb.co/6s6Szc6/businessman-icon-simple-style-vector.jpg"
+  },
+  {
+    "id": 50,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/qR6bz3T/images.jpg"
+  },
+  {
+    "id": 51,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/ZLZw4br/images-1.jpg"
+  },
+  {
+    "id": 52,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "solid",
+    "image": "https://i.ibb.co/8D4MQgC/1000-F-222723488-RNae2l-AJ8w0-Lm-IE1z-Ge2ytq8-DTa-Wmb53.jpg"
+  },
+  {
+    "id": 53,
+    "category": "Alert",
+    "icon": "AlertIcon-sharp",
+    "style": "light",
+    "image": "https://i.ibb.co/nnqVKNP/images-11.png"
+  },
+  {
+    "id": 54,
+    "category": "Alert",
+    "icon": "AlertIcon-sharp",
+    "style": "light",
+    "image": "https://i.ibb.co/6v5xxRv/images-10.png"
+  },
+  {
+    "id": 55,
+    "category": "Alert",
+    "icon": "AlertIcon-sharp",
+    "style": "light",
+    "image": "https://i.ibb.co/vdLNq7G/images-12.png"
+  },
+  {
+    "id": 56,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/5jkMpF0/images-14.png"
+  },
+  {
+    "id": 57,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/qszTWQP/images-13.png"
+  },
+  {
+    "id": 58,
+    "category": "Alphabet",
+    "icon": "AlphabetIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/QcBZYDj/images-15.png"
+  },
+  {
+    "id": 59,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/TqZZgsr/idea-line-icon-icon-for-your-website-mobile-presentation-and-logo-design-vector.jpg"
+  },
+  {
+    "id": 60,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/7pWJnWX/icon-concept-of-basic-or-regular-light-bulb-sparkling-and-shining-in-simple-line-style-can-used-for.jpg"
+  },
+  {
+    "id": 61,
+    "category": "Social",
+    "icon": "SocialIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/NmpkBjg/images-7.png"
+  },
+  {
+    "id": 62,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/nmBBCrj/images-1.jpg"
+  },
+  {
+    "id": 63,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/2W5xSRG/images-18.png"
+  },
+  {
+    "id": 64,
+    "category": "Business",
+    "icon": "BusinessIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/vDhDmN0/images-17.png"
+  },
+  {
+    "id": 65,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/NmpkBjg/images-7.png"
+  },
+  {
+    "id": 66,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/Y8VLj1M/pngtree-communication-flat-icon-png-image-3607870.jpg"
+  },
+  {
+    "id": 67,
+    "category": "Communication",
+    "icon": "CommunicationIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/vmprZRj/images-2.jpg"
+  },
+  {
+    "id": 68,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/x22qpZ5/communication-icon-png-65790.jpg"
+  },
+  {
+    "id": 69,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/Wt5M0dp/4196292.png"
+  },
+  {
+    "id": 70,
+    "category": "Map",
+    "icon": "MapIcon",
+    "style": "light",
+    "image": "https://i.ibb.co/1f91MjH/7028016.png"
+  }
+]
