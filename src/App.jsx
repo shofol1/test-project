@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
   const [icons, setIcons] = useState([]);
 
-  const [inputIcon, setInputIcon] = useState([...icons]); // Initialize with all icons
+  const [inputIcon, setInputIcon] = useState([...icons]);
 
   const [searchText, setSearchText] = useState("");
 
@@ -23,6 +23,21 @@ function App() {
     };
     fetchData();
   }, [inputIcon]);
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    const uniqueCategories = Array.from(
+      new Set(icons.map((item) => item.style))
+    );
+    const initialCategoryState = {};
+    uniqueCategories.forEach((style) => {
+      initialCategoryState[style] = icons.filter(
+        (item) => item.style === style
+      );
+    });
+
+    setCategories(initialCategoryState);
+  }, [icons]);
 
   return (
     <>
@@ -39,6 +54,7 @@ function App() {
                 setErrorMessage={setErrorMessage}
                 searchText={searchText}
                 setSearchText={setSearchText}
+                categories={categories}
               ></Search>
             }
           />
@@ -53,6 +69,7 @@ function App() {
                 setErrorMessage={setErrorMessage}
                 searchText={searchText}
                 setSearchText={setSearchText}
+                categories={categories}
               ></Search>
             }
           />
