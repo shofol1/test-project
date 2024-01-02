@@ -1,4 +1,4 @@
-const Searchs = ({ icon }) => {
+const IconCard = ({ icon }) => {
   const { image, category } = icon;
   return (
     <div className="flex flex-col justify-center items-center shadow-lg py-2 hover:bg-orange-300 duration-300">
@@ -8,4 +8,4 @@ const Searchs = ({ icon }) => {
   );
 };
 
-export default Searchs;
+export default IconCard;

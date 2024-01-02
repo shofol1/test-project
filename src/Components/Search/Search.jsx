@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Searchs from "../Searchs/Searchs";
+import Searchs from "../IconCard/IconCard";
 import Classics from "../Classics/Classics";
 import Sharps from "../Sharps/Sharps";
 import {
@@ -9,6 +9,7 @@ import {
   useParams,
   useSearchParams,
 } from "react-router-dom";
+import SearchResult from "../SearchResult/SearchResult";
 
 const Search = ({
   icons,
@@ -96,55 +97,12 @@ const Search = ({
             );
           })}
         </div>
-        <div>
-          <div>
-            {icons.filter((icon) => {
-              const categoryMatches = icon.category
-                .toLowerCase()
-                .includes(queryValue ? queryValue.toLowerCase() : searchText);
-
-              const styleMatches =
-                !queryStyleValue ||
-                icon.style.toLowerCase() === queryStyleValue.toLowerCase();
-
-              return categoryMatches && styleMatches;
-            }).length > 0 ? (
-              <p className="text-green-600 font-bold mt-5 text-2xl ">
-                {
-                  icons.filter((icon) =>
-                    icon.category
-                      .toLowerCase()
-                      .includes(
-                        queryValue ? queryValue.toLowerCase() : searchText
-                      )
-                  ).length
-                }{" "}
-                Icons
-              </p>
-            ) : (
-              <p className="text-red-600 font-semibold mt-5 text-xl">
-                No Icons Found Icons
-              </p>
-            )}
-          </div>
-          <div className="grid grid-cols-2 lg:grid-cols-5 gap-6 text-center">
-            {icons
-              .filter((icon) => {
-                const categoryMatches =
-                  !queryValue ||
-                  icon.category.toLowerCase() === queryValue.toLowerCase();
-
-                const styleMatches =
-                  !queryStyleValue ||
-                  icon.style.toLowerCase() === queryStyleValue.toLowerCase();
-
-                return categoryMatches && styleMatches;
-              })
-              .map((icon) => (
-                <Searchs key={icon.id} icon={icon}></Searchs>
-              ))}
-          </div>
-        </div>
+        <SearchResult
+          icons={icons}
+          queryStyleValue={queryStyleValue}
+          queryValue={queryValue}
+          searchText={searchText}
+        />
       </div>
     </div>
   );
